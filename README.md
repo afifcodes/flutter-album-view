@@ -12,8 +12,9 @@ Dribbble
 
 
 ## Development Setup
-Clone the repository and run the following commands:
 ```
+git clone https://github.com/afifudinx/flutter-album-view.git
+cd flutter-album-view
 flutter pub get
 flutter run
 ```
