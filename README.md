@@ -1,16 +1,28 @@
-# flutter_album_view
+## Flutter UI - Album View
 
-A new Flutter project.
+```dart
+void main() => runApp(const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: HomePage(),
+    ));
+```
 
-## Getting Started
+Dribbble 
+* [Album View by Adrian Spiegelt on Dribbble](https://dribbble.com/shots/17461178-Album-View)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img src="ss.png" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links
+
+* [Website](https://afifudinx.vercel.app)
+* [Youtube channel](https://youtube.com/developedbyafif)
+* [Instagram](https://instagram.com/developedbyafif)
