@@ -25,5 +25,5 @@ flutter run
 ## Links
 
 * [Website](https://afifcodes.vercel.app)
-* [Youtube channel](https://youtube.com/developedbyafif)
-* [Instagram](https://instagram.com/developedbyafif)
+* [Youtube channel](https://youtube.com/afifcodes)
+* [Instagram](https://instagram.com/afifcodes)
