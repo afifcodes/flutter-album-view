@@ -13,7 +13,7 @@ Dribbble
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-album-view.git
+git clone https://github.com/afifcodes/flutter-album-view.git
 cd flutter-album-view
 flutter pub get
 flutter run
@@ -24,6 +24,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app)
+* [Website](https://afifcodes.vercel.app)
 * [Youtube channel](https://youtube.com/developedbyafif)
 * [Instagram](https://instagram.com/developedbyafif)
